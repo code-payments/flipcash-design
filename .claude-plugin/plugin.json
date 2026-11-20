@@ -1,0 +1,9 @@
+{
+  "name": "flipcash-design",
+  "description": "The Flipcash House Standard, design decision log and Figma Screen Kit, with skills and agents to spec screens in Figma and review app changes against the standard.",
+  "author": {
+    "name": "code-payments"
+  },
+  "repository": "https://github.com/code-payments/flipcash-design",
+  "keywords": ["design", "figma", "flipcash"]
+}

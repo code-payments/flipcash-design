@@ -1,0 +1,14 @@
+{
+  "name": "flipcash-design",
+  "description": "Flipcash design tools: the House Standard and its skills and agents.",
+  "owner": {
+    "name": "code-payments"
+  },
+  "plugins": [
+    {
+      "name": "flipcash-design",
+      "source": "./",
+      "description": "The Flipcash House Standard, design decision log and Figma Screen Kit, with skills and agents to spec screens in Figma and review app changes against the standard."
+    }
+  ]
+}
